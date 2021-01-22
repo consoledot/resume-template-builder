@@ -16,7 +16,7 @@ const HomePage = () => (
       <p className="welcome-note">
       
       </p>
-      <Link to="/builder">Builder</Link>
+      <Link to="/builder">Get Started</Link>
     </div>
   </div>
   </>
