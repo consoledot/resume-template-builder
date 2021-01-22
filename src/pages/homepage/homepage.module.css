@@ -16,12 +16,12 @@
     padding: 50px 50px;
 }
 
-.homepage-img {
+ .homepage__img {
     margin-top: 0;
     height: 400px;
 }
 
-.home-title {
+.home__title {
     
 }
 a{
@@ -39,13 +39,13 @@ a:hover{
     
 }
 @media (min-width: 1900px){
-    .homepage{
+     .homepage{
         padding: 100px 0;
     }
-    .homepage-img{
+     .homepage__img{
         height: 500px;
     }
-  .home-title{
+     .home__title{
       font-size: 30px;
   }
 }
